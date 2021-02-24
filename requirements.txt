@@ -1,1 +1,1 @@
-sampleproject==2.0.0
+click-didyoumean==0.0.3
